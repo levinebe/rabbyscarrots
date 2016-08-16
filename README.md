@@ -12,6 +12,3 @@ Game controls:
 	•	ALT – Reposition camera
 	•	ESCAPE/P – Pause
 
-
-Once in the game, you’ll notice on the top right of the screen, the current state of the enemy
-AI. Move Rabby towards the enemy in front of you to make the enemy start following you. Notice the enemy AI state change on the top right of the screen as this happens. Allow the enemy to get close to Rabby for it to switch to an “Attack” state. Lead the enemy to the area on the right with several stumps to test the effectiveness of the pathfinding around obstacles. Lead the enemy up the tall spiral model in the area next to the stump area to test the functionality of the off-mesh link, which accounts for changes in elevation. Note that if Rabby is moved too far away from the enemy at any point, the enemy will switch to a “Retreat” state and move back to its starting location. If you want to keep the enemy chasing you, make sure not to run away from it too quickly!
